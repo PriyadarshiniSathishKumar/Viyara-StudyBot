@@ -24,6 +24,13 @@ A sophisticated multi-agent educational assistant built with modern web technolo
 - **LangChain Integration** - Agent orchestration with observability via LangSmith
 - **Fallback System** - Works offline with educational content when API is unavailable
 
+## Screenshots
+![image](https://github.com/user-attachments/assets/c5b4e70e-f6a6-4b1c-b2a0-914a627cf7ac)
+![image](https://github.com/user-attachments/assets/dbcbf7fd-0f4a-445c-83a9-72f3f0c4e46f)
+![image](https://github.com/user-attachments/assets/3c27dfcb-5a87-439c-9f0d-2c0203c3b1f3)
+
+
+
 ## 🚀 Quick Start
 
 ### Prerequisites
